@@ -1,1 +1,1 @@
-# Django-University Showcasing my knowledge of displaying and setting the value types of certain atrributes.
+# Django-University Showcasing my knowledge of displaying and setting the value types of certain atrributes. I also learned how to set a breakpoint to go step by step to see any errors and to catch it.
